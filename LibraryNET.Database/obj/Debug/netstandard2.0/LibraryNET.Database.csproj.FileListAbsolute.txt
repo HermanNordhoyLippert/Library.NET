@@ -1,0 +1,11 @@
+D:\Visual Studio\LibraryNET\LibraryNET.Database\bin\Debug\netstandard2.0\LibraryNET.Database.deps.json
+D:\Visual Studio\LibraryNET\LibraryNET.Database\bin\Debug\netstandard2.0\LibraryNET.Database.dll
+D:\Visual Studio\LibraryNET\LibraryNET.Database\bin\Debug\netstandard2.0\LibraryNET.Database.pdb
+D:\Visual Studio\LibraryNET\LibraryNET.Database\bin\Debug\netstandard2.0\LibraryNET.Model.dll
+D:\Visual Studio\LibraryNET\LibraryNET.Database\bin\Debug\netstandard2.0\LibraryNET.Model.pdb
+D:\Visual Studio\LibraryNET\LibraryNET.Database\obj\Debug\netstandard2.0\LibraryNET.Database.csprojAssemblyReference.cache
+D:\Visual Studio\LibraryNET\LibraryNET.Database\obj\Debug\netstandard2.0\LibraryNET.Database.AssemblyInfoInputs.cache
+D:\Visual Studio\LibraryNET\LibraryNET.Database\obj\Debug\netstandard2.0\LibraryNET.Database.AssemblyInfo.cs
+D:\Visual Studio\LibraryNET\LibraryNET.Database\obj\Debug\netstandard2.0\LibraryNET.Database.csproj.CopyComplete
+D:\Visual Studio\LibraryNET\LibraryNET.Database\obj\Debug\netstandard2.0\LibraryNET.Database.dll
+D:\Visual Studio\LibraryNET\LibraryNET.Database\obj\Debug\netstandard2.0\LibraryNET.Database.pdb

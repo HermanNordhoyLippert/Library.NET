@@ -1,0 +1,10 @@
+D:\Visual Studio\LibraryNET\LibraryNET.Model\bin\Debug\netstandard2.0\LibraryNET.Model.deps.json
+D:\Visual Studio\LibraryNET\LibraryNET.Model\bin\Debug\netstandard2.0\LibraryNET.Model.dll
+D:\Visual Studio\LibraryNET\LibraryNET.Model\bin\Debug\netstandard2.0\LibraryNET.Model.pdb
+D:\Visual Studio\LibraryNET\LibraryNET.Model\bin\Debug\netstandard2.0\Windows.Foundation.UniversalApiContract.winmd
+D:\Visual Studio\LibraryNET\LibraryNET.Model\obj\Debug\netstandard2.0\LibraryNET.Model.csprojAssemblyReference.cache
+D:\Visual Studio\LibraryNET\LibraryNET.Model\obj\Debug\netstandard2.0\LibraryNET.Model.AssemblyInfoInputs.cache
+D:\Visual Studio\LibraryNET\LibraryNET.Model\obj\Debug\netstandard2.0\LibraryNET.Model.AssemblyInfo.cs
+D:\Visual Studio\LibraryNET\LibraryNET.Model\obj\Debug\netstandard2.0\LibraryNET.Model.csproj.CopyComplete
+D:\Visual Studio\LibraryNET\LibraryNET.Model\obj\Debug\netstandard2.0\LibraryNET.Model.dll
+D:\Visual Studio\LibraryNET\LibraryNET.Model\obj\Debug\netstandard2.0\LibraryNET.Model.pdb

@@ -1,0 +1,8 @@
+D:\Visual Studio\FinalProject\FinalProject.Model\bin\Debug\netstandard2.0\FinalProject.Model.deps.json
+D:\Visual Studio\FinalProject\FinalProject.Model\bin\Debug\netstandard2.0\FinalProject.Model.dll
+D:\Visual Studio\FinalProject\FinalProject.Model\bin\Debug\netstandard2.0\FinalProject.Model.pdb
+D:\Visual Studio\FinalProject\FinalProject.Model\obj\Debug\netstandard2.0\FinalProject.Model.csprojAssemblyReference.cache
+D:\Visual Studio\FinalProject\FinalProject.Model\obj\Debug\netstandard2.0\FinalProject.Model.AssemblyInfoInputs.cache
+D:\Visual Studio\FinalProject\FinalProject.Model\obj\Debug\netstandard2.0\FinalProject.Model.AssemblyInfo.cs
+D:\Visual Studio\FinalProject\FinalProject.Model\obj\Debug\netstandard2.0\FinalProject.Model.dll
+D:\Visual Studio\FinalProject\FinalProject.Model\obj\Debug\netstandard2.0\FinalProject.Model.pdb

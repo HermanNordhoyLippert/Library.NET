@@ -1,0 +1,2 @@
+D:\Visual Studio\LibraryNET\LibraryNET.DonauApi\LibraryNET.DonauApi.csproj;x86
+D:\Visual Studio\LibraryNET\LibraryNET.Uwp\LibraryNET.Uwp.csproj;x86
